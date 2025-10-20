@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Language Translator",
+  "description": "A simple and elegant language translation tool powered by the Gemini API. Enter text, select your source and target languages, and get instant translations. Features include copy-to-clipboard and text-to-speech.",
+  "requestFramePermissions": []
+}
